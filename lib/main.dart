@@ -60,3 +60,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+// Generate qiliw ucun kerak 
+//flutter packages pub run build_runner watch --use-polling-watcher --delete-conflicting-outputs
